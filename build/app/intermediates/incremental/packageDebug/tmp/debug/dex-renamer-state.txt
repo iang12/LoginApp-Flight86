@@ -1,0 +1,4 @@
+#Sun Jun 16 16:53:45 BRT 2019
+base.0=/home/ian/aplicativos_flutter/login_colorful_ui/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
